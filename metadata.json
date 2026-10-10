@@ -1,0 +1,8 @@
+{
+  "name": "TestWordPress Studio",
+  "description": "Headless WordPress & Editorial CMS Theme Studio with custom typography, block editor preview, and REST API explorer.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
